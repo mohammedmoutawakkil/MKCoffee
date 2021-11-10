@@ -3,7 +3,7 @@
     <div class="container-fluid py-5 ">
     <div class="row p-5 text-light">
       <!-- About Title -->
-        <h1 class="title text-start fw-bold ">About Us</h1>
+        <h1 class="title text-start fw-bold ">About</h1>
         <!-- Column -->
             <div class="col-sm px-5">
                 <h4 class="text-capitalize text-start  mt-5 mb-3 style  fw-bold ">What is MK Caffee</h4>

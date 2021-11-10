@@ -66,24 +66,31 @@
             </div>
             <hr class="mt-5 text-secondary">
             <div class="container-fuiled">
+                <!-- row -->
                 <div class="row">
+                    <!-- copyright column -->
                     <div class="col-sm">
                         <div class="p-3 text-white text-center">
                             © {{date}} Copyright :
                             <a class="text-white text-decoration-none" href="https://github.com/mohammedmoutawakkil">Mohammed Moutawakkil</a>
                         </div>
                     </div>
+                    <!-- links column -->
                     <div class="col-sm text-white text-center fs-3 p-2">
                         <div class="row">
-                            <div class="col-sm"><a class="text-white text-decoration-none" href="#"><fa :icon="['fab','facebook']" class="text-yellow" /></a></div>
-                            <div class="col-sm"><a class="text-white text-decoration-none" href="#"><fa :icon="['fab','github']" class="text-yellow"/></a></div>
-                            <div class="col-sm"><a class="text-white text-decoration-none" href="#"><fa :icon="['fab','linkedin']" class="text-yellow"/></a></div>
+                            <!-- facebook link -->
+                            <div class="col-sm"><a class="text-white text-decoration-none" href="javascript:void(0)"><fa :icon="['fab','facebook']" class="text-yellow" /></a></div>
+                            <!-- github column -->
+                            <div class="col-sm"><a class="text-white text-decoration-none" href="javascript:void(0)"><fa :icon="['fab','github']" class="text-yellow"/></a></div>
+                            <!-- linkedin column -->
+                            <div class="col-sm"><a class="text-white text-decoration-none" href="javascript:void(0)"><fa :icon="['fab','linkedin']" class="text-yellow"/></a></div>
                         </div>
                     </div>
+                    <!-- Privacy Policy link and Terms Condition link column -->
                     <div class="col-sm p-3  text-white text-center">
                         <div class="col">
-                        <a href="#" class="text-decoration-none text-white pe-3">Privacy Policy </a>
-                        <a href="#" class="text-decoration-none text-white ps-3"> Terms Condition</a>
+                        <a href="javascript:void(0)" class="text-decoration-none text-white pe-3">Privacy Policy </a>
+                        <a href="javascript:void(0)" class="text-decoration-none text-white ps-3"> Terms Condition</a>
                         </div>
                     </div>
                 </div>

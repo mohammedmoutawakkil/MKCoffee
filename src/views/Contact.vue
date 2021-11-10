@@ -3,7 +3,7 @@
     <div class="container-fluid py-5 my-5">
     <div class="row p-5 text-dark">
         <!-- Contact Title -->
-        <h1 class="title text-start fw-bold ">Contact Us</h1>
+        <h1 class="title text-start fw-bold ">Contact</h1>
         <!-- Column -->
             <div class="col-sm text-start">
                 <div class="row py-5">

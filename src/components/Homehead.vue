@@ -1,9 +1,11 @@
 <template>
   <div :style="{ 'backgroundImage': 'url(' + caffeebg + ')' }" class="demo container-fluid h-auto px-sm-4 py-sm-5 ">
     <div class="row ms-sm-5 p-5">
+      <!-- header image -->
       <div class="col-sm-4 ms-sm-4 ">
         <img :src="caffeeicon" class="w-100 pointer shadow-lg" alt="">
       </div>
+      <!-- header text -->
       <div class="col-sm-6  p-sm-5 ms-sm-5 text-start" style="margin-top:12%;">
         <p class="fs-5  text-warning text-capitalize fw-bold">delicious coffee</p>
         <h1 class="text-yellow  fw-bold text-capitalize display-1 letter">MK coffee</h1>
@@ -21,8 +23,11 @@ import { reactive,ref, toRefs } from 'vue'
         name:'Homehead',
          setup(){
             let caffee;
+            //Button default class
             const githubstarover=ref('btn btn-transparent  fs-4 border border-2 btn-hover text-light border-light py-2 px-4');
+            //Button mouseover class
             const mouseover='btn btn-transparent  fs-4   btn-hover text-dark border border-2 border-dark py-2 px-4';
+            //Button mouseleave class
             const mouseleave='btn btn-transparent  fs-4 border border-2 btn-hover text-light border-light py-2 px-4';
                 try{
                 //Check availability

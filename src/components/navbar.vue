@@ -19,7 +19,8 @@
               <router-link to="/About" tag="button" class="nav-link">About</router-link>
             </li>
         </ul>
-        <form class="d-flex ms-sm-auto me-sm-5 pe-sm-5">
+        <!-- Search form -->
+        <form class="d-flex ms-sm-auto ">
           <input class="form-control me-2" type="search" placeholder="Search">
           <button class="btn bg-other text-white" type="button">Search</button>
         </form>

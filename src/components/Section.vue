@@ -1,6 +1,7 @@
 <template >
-        <div class="bg-white">
-            <div>
+    <div class="bg-white">
+        <div>
+            <!-- Offer -->
             <div class="d-flex justify-content-center">
                 <div class="p-5 w-50 text-center">
                     <h5 class="text-warning  text-capitalize">what we offer</h5>
@@ -8,6 +9,7 @@
                     <p class="text-secondary  ">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua erat libero condimentum metus.</p>
                 </div>
             </div>
+            <!-- Services -->
                 <div class="container">
                     <div class="row p-5">
                         <div class="col-sm ">
@@ -53,6 +55,8 @@
                             </div>
                         </div>
                 </div>
+            <!-- Services -->
+            <!-- Our Quality -->
                 <h1 class="text-center fw-bold mt-5"><span class="text-warning">.</span> Quality <span class="text-warning">.</span></h1>
                 <div class="row mt-5 py-5">
                     <div class="col-sm mb-4 mb-lg-0">
@@ -75,8 +79,10 @@
                     <div class="col-sm"><div class="p-3 text-secondary fs-2 fw-bold"><fa :icon="['fab','js']" class="" /> JavaScript</div></div>
                 </div>
             </div>
+            <!-- Our Quality -->
         </div>
     </div>
+    <!-- Our Products -->
     <div  :style="{ 'backgroundImage': 'url(' + caffeebg1 + ')' }" class="h-small text-center">
         <div class="container p-5">
             <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
@@ -186,6 +192,8 @@
             </div>
         </div>
     </div>
+    <!-- Our Products -->
+    <!-- Caffee Rates -->
     <div class="container-fuild bg-light pt-global pb-5">
         <div class="container">
             <div class="d-flex justify-content-center">
@@ -271,7 +279,7 @@
             </div>
         </div>
     </div>
-    
+    <!-- Caffee Rates -->
 </template>
 
 <script>

@@ -1,11 +1,13 @@
 <template>
   <div>
+    <!-- Header Component -->
     <div>
        <Homehead />
     </div>
-   <div>
+    <!-- Section Component -->
+    <div>
      <Section />
-   </div>
+    </div>
     
   </div>
 </template>
