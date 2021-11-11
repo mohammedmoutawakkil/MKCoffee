@@ -2,7 +2,7 @@
 ![license](https://img.shields.io/badge/license-MIT-blue.svg) <a href="https://github.com/creativetimofficial/vue-notus/issues?q=is%3Aopen+is%3Aissue" target="_blank">
 ### A beautiful UI .
   
-![MKCaffee](https://user-images.githubusercontent.com/70536218/141200988-5e646a73-879c-4bd8-8d88-2acc9aff12ac.png)
+![MKCaffee](https://user-images.githubusercontent.com/70536218/141295198-d041741b-ea47-43c4-9b07-70b309747c92.png)
 
 Start your Web Site with this bootstrap and VueJS UI . 
 
