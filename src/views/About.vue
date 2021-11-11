@@ -6,7 +6,7 @@
         <h1 class="title text-start fw-bold ">About</h1>
         <!-- Column -->
             <div class="col-sm px-5">
-                <h4 class="text-capitalize text-start  mt-5 mb-3 style  fw-bold ">What is MK Caffee</h4>
+                <h4 class="text-capitalize text-start  mt-5 mb-3 style  fw-bold ">What is MK Coffee</h4>
                 <p class="text-other">Questo testo ha uno stile con alcune delle proprietà di formattazione del testo. L'intestazione utilizza le proprietà di allineamento del testo, trasformazione del testo e colore.
                 Il paragrafo è rientrato, allineato e viene specificato lo spazio tra i caratteri. La sottolineatura viene rimossa da questo colore.Questo testo ha uno stile con alcune delle proprietà di formattazione del testo. L'intestazione utilizza le proprietà di allineamento del testo, trasformazione del testo e colore.
                 Il paragrafo è rientrato, allineato e viene specificato lo spazio tra i caratteri. La sottolineatura viene rimossa da questo colore.</p>
