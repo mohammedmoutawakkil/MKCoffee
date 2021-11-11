@@ -193,13 +193,13 @@
         </div>
     </div>
     <!-- Our Products -->
-    <!-- Caffee Rates -->
+    <!-- Coffee Rates -->
     <div class="container-fuild bg-light pt-global pb-5">
         <div class="container">
             <div class="d-flex justify-content-center">
                 <div class="p-5 w-50 text-center">
-                    <h5 class="text-warning  text-capitalize">Caffee Rates</h5>
-                    <h1 class="text-capitalize  fw-bold">Flexible Caffee Rates <span class="text-warning">.</span></h1>
+                    <h5 class="text-warning  text-capitalize">Coffee Rates</h5>
+                    <h1 class="text-capitalize  fw-bold">Flexible Coffee Rates <span class="text-warning">.</span></h1>
                     <p class="text-secondary  ">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua erat libero condimentum metus.</p>
                 </div>
             </div>
@@ -279,7 +279,7 @@
             </div>
         </div>
     </div>
-    <!-- Caffee Rates -->
+    <!-- Coffee Rates -->
 </template>
 
 <script>
