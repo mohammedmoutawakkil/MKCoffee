@@ -4,7 +4,7 @@
             <div class="d-flex justify-content-center">
                 <div class="p-5 w-50 text-center">
                     <h5 class="text-dark  text-capitalize">Call 24 Hour Service Available</h5>
-                    <h1 class="text-capitalize  fw-bold">Call Now & Book Your Caffee.</h1>
+                    <h1 class="text-capitalize  fw-bold">Call Now & Book Your Coffee.</h1>
                     <p class="fw-bold"><a href="tel:+2126########" class="fs-2 text-decoration-none text-dark"><fa :icon="['fas','phone']" class="me-3"/>(+212) #### ### ###</a></p>
                 </div>
             </div>
