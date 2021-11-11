@@ -10,7 +10,7 @@
                 <p class="text-other">Questo testo ha uno stile con alcune delle proprietà di formattazione del testo. L'intestazione utilizza le proprietà di allineamento del testo, trasformazione del testo e colore.
                 Il paragrafo è rientrato, allineato e viene specificato lo spazio tra i caratteri. La sottolineatura viene rimossa da questo colore.Questo testo ha uno stile con alcune delle proprietà di formattazione del testo. L'intestazione utilizza le proprietà di allineamento del testo, trasformazione del testo e colore.
                 Il paragrafo è rientrato, allineato e viene specificato lo spazio tra i caratteri. La sottolineatura viene rimossa da questo colore.</p>
-                <a href="https://github.com/mohammedmoutawakkil/MKCaffee" target="_blank" class="btn text-uppercase text-dark fw-bold px-sm-4 py-sm-3 Stars">Github Star</a>
+                <a href="https://github.com/mohammedmoutawakkil/MKCoffee" target="_blank" class="btn text-uppercase text-dark fw-bold px-sm-4 py-sm-3 Stars">Github Star</a>
             </div>
         <!-- Column -->
             <div class="col-sm pb-3 slanted mt-5 mt-md-5 mt-lg-0">
