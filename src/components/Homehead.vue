@@ -10,7 +10,7 @@
         <p class="fs-5  text-warning text-capitalize fw-bold">delicious coffee</p>
         <h1 class="text-yellow  fw-bold text-capitalize display-1 letter">MK coffee</h1>
         <p class="text-light text-break  fs-5 mb-4 font-monospace">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-        <a href="https://github.com/mohammedmoutawakkil/MKCaffee" target="_blank" :class="githubstarover" @mouseover="githubstarover=mouseover" @mouseleave="githubstarover=mouseleave">Github Star</a>
+        <a href="https://github.com/mohammedmoutawakkil/MKCoffee" target="_blank" :class="githubstarover" @mouseover="githubstarover=mouseover" @mouseleave="githubstarover=mouseleave">Github Star</a>
       </div>
     </div>
   </div>
