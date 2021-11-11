@@ -4,9 +4,9 @@
   
 ![MKCaffee](https://user-images.githubusercontent.com/70536218/141295198-d041741b-ea47-43c4-9b07-70b309747c92.png)
 
-Start your Web Site with this bootstrap and VueJS UI . 
+Start your Coffee beans Web Site with this bootstrap and VueJS UI . 
 
-MKCaffee is Free and Open Source. It features multiple HTML and VueJS elements and it comes with dynamic components for VueJS.
+MKCoffee is Free and Open Source. It features multiple HTML and VueJS elements and it comes with dynamic components for VueJS.
 
 It is based on Bootstrap v5 , and it is build with a presentation pages.
 
