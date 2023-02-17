@@ -239,7 +239,7 @@
                         </div>
                         <div class="row">
                             <div class="col"><p class="fw-bold">Booking Fee</p></div>
-                            <div class="col"><p>$0.70/5kg</p></div>
+                            <div class="col"><p>$2.70/5kg</p></div>
                         </div>
                         <div class="row">
                             <div class="col"><p class="fw-bold">Initial Charge</p></div>
@@ -247,7 +247,7 @@
                         </div>
                         <div class="row">
                             <div class="col"><p class="fw-bold">Booking Fee</p></div>
-                            <div class="col"><p>$0.70/5kg</p></div>
+                            <div class="col"><p>$2.70/5kg</p></div>
                         </div>
                         <button class="btn bg-yellow text-2A dark-hover  px-5 py-3 mt-4 fw-bold">Booking Now</button>
                     </div>
