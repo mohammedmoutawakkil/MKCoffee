@@ -235,7 +235,7 @@
                         <hr>
                         <div class="row">
                             <div class="col"><p class="fw-bold">Initial Charge</p></div>
-                            <div class="col"><p>$4.50</p></div>
+                            <div class="col"><p>$3.50</p></div>
                         </div>
                         <div class="row">
                             <div class="col"><p class="fw-bold">Booking Fee</p></div>
@@ -259,7 +259,7 @@
                         <hr>
                         <div class="row">
                             <div class="col"><p class="fw-bold">Initial Charge</p></div>
-                            <div class="col"><p>$5.40</p></div>
+                            <div class="col"><p>$3.40</p></div>
                         </div>
                         <div class="row">
                             <div class="col"><p class="fw-bold">Booking Fee</p></div>
